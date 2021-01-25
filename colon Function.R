@@ -10,3 +10,5 @@ x4
 x5 = -8.5:-1.5
 x5
 # Invalid example
+x6 = 3.25:5.7
+x6
