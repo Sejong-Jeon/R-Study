@@ -17,3 +17,12 @@ file2
 file2$name
 file2$x1
 file2$x2
+
+# Read a comma-separated file
+file3=read.table(file="tab-separated file",
+                 header=TRUE,
+                 sep="\t")
+file3
+file3$name
+file3$x1
+file3$x2
